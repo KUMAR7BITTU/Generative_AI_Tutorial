@@ -25,3 +25,6 @@ python-dotenv
 # Machine Leawrning Utilities
 numpy
 scikit-learn
+
+# streamlit
+streamlit
